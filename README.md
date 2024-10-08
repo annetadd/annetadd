@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me email annetadziedzom@gmail.com
 - 😄 Pronouns: She
-  https://github-profile-trophy.vercel.app/annetaddryo-ma)](https://github.com/ryo-ma/github-profile-trophy
+  
+
+https://github-profile-trophy.vercel.app/annetaddryo-ma)](https://github.com/ryo-ma/github-profile-trophy
 https://github-profile-trophy.vercel.app/annetaddryo-ma&theme=juicyfresh
 <!---
 annetadd/annetadd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
