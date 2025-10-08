@@ -1,5 +1,4 @@
-# 💫 About Me:
-i’m currently working on mobile app development and web development 🔭<br>i’m looking forward to collaborating with various stacks🚀<br>i’m looking for help with backend development 💻<br>i’m currently learning mobile app development 🙂‍↕️<br>
+
 
 
 ## 🌐 Socials:
